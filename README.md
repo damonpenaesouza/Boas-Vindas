@@ -1,16 +1,34 @@
-# First_Remote
-Test remote connection with local git
+# Sobre Mim
+Sou engenheiro de telecomunicações adentrando no mundo de TI. Estou adquirindo alguns conhecimentos como:
+- [x] **Git** ✔️
+- [x] **GitHub** ✔️
+- [x] **Python** ✔️
+- [x] **Engenharia de Software** ✔️
+- [x] **Banco de Dados** ✔️
 
-# Este é o primeiro nível de título neste readme. para isto use 1 "#" na frente da frase
+## Dicas sobre Markdown
+Você pode aprender a linguagem Markdown uasad para formatar uma página como essa aqui: [Help Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Mas de qualquer forma vou deixar algumas dicas aqui embaixo:
 
-Para marcar alguma palavra em **negrito** , utilize 2 asteriscos '**' ou "_ _" antes e após a palvra que quer deixar em negrito.
+### Níveis de títulos.
+Os níveis de título são determinados pelo número de "'#' que são usados . 1 '#' é o primeiro nível , ou seja , o maior título, 2 '##' é o segundo nível e assim sucessivamente. Mas lembre-se de deixar um espaço logo em seguida do '#'. Exemplo: Para eu escrever o "Sobre Mim" nesta página eu digitei # Sobre Mim
 
+### **Negrito**
+Para marcar alguma palavra em **negrito** , utilize 2 asteriscos '**' antes e após a palvra que quer deixar em negrito.
+
+### Redirecionamentos
 Outro exemplo legal é usar um link para direcioanr a outra página. Para isto utilize chaves [] e (). O texto entre chaves ficará marcado 
-e ao clicar nele o usuário será direcionado para a url que foi inserida dentro do parênteses. [Texto que te redicionará](https://github.com/damonpenaesouza)
+e ao clicar nele o usuário será direcionado para a url que foi inserida dentro do parênteses. Formato: '[texto](url para redirecionamento)'
 
-Ou também você pode usar um link para navegar dentro do prórpio github usando caminhos relativos. [Contribution guidelines for this project](docs/CONTRIBUTING.md)  
+[Este texto te redicionará para o meu perfil](https://github.com/damonpenaesouza)
+### Inserindo emojis
+Para inserir um emoji é muito simples basta digitar `:` e digitar o nome do emoji, ou digitar uma letra qualquer para ver uma lista disponível. Mas caso você queira ter acesso à lista completa pode verificar [aqui](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-Para inserir uma imagem no Readme por exemplo faça o seguinte: Você pode exibir uma imagem adicionando ! e colocando o texto entre [ ]e o endereço da imagem que ficará
-entre parênteses é https://myoctocat.com/assets/images/base-octocat.svg.  Então seria "![texto](Enderço url imagem)".
-O texto que colocarei entre as chaves será "teste" e o link que eu vou colocar entre parênteses é https://myoctocat.com/assets/images/base-octocat.svg.
-![Teste](https://myoctocat.com/assets/images/base-octocat.svg)
+### Inserindo Imagens  
+
+Para inserir uma imagem no Readme faça o seguinte: Você pode exibir uma imagem adicionando `!` seguido de `[ ]`e o endereço url da imagem dentro de `()`. 
+Então seria "![](Enderço url imagem)".
+
+
+
+![](https://myoctocat.com/assets/images/base-octocat.svg)
